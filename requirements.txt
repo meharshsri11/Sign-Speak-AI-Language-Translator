@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+scikit-learn
+numpy
+googletrans==4.0.0-rc1
+pyttsx3
+streamlit
+
+
+
+To install all dependencies, run:  pip install -r requirements.txt
